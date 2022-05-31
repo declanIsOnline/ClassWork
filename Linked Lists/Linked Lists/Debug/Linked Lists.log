@@ -1,0 +1,33 @@
+﻿  Linked Lists.cpp
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(38,9): warning C4101: 'i': unreferenced local variable
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,5): error C2059: syntax error: 'for'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,5): error C2143: syntax error: missing ')' before ';'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,19): error C2143: syntax error: missing ';' before '<'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,25): error C2143: syntax error: missing ';' before '++'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,24): error C2086: 'int i': redefinition
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43): message : see declaration of 'i'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,27): error C2059: syntax error: ')'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,29): error C2143: syntax error: missing ';' before '{'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43,29): error C2447: '{': missing function header (old-style formal list?)
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,5): error C2059: syntax error: 'for'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,5): error C2143: syntax error: missing ')' before ';'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,19): error C2143: syntax error: missing ';' before '<'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,17): error C2086: 'int i': redefinition
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43): message : see declaration of 'i'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,25): error C2143: syntax error: missing ';' before '++'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,24): error C2086: 'int i': redefinition
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(43): message : see declaration of 'i'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,27): error C2059: syntax error: ')'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,29): error C2143: syntax error: missing ';' before '{'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(47,29): error C2447: '{': missing function header (old-style formal list?)
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(53,15): error C2143: syntax error: missing ';' before '<<'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(53,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(53,10): error C2371: 'std::cout': redefinition; different basic types
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\iostream(41): message : see declaration of 'std::cout'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(54,5): error C2059: syntax error: 'return'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(55,1): error C2059: syntax error: '}'
+D:\Users\270194833\source\repos\Linked Lists\Linked Lists\Linked Lists.cpp(55,1): error C2143: syntax error: missing ';' before '}'
