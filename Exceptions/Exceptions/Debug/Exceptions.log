@@ -1,0 +1,7 @@
+﻿  Exceptions.cpp
+D:\Users\270194833\source\repos\Exceptions\Exceptions\Exceptions.cpp(45,15): warning C5051: attribute 'fallthrough' requires at least '/std:c++17'; ignored
+D:\Users\270194833\source\repos\Exceptions\Exceptions\Exceptions.cpp(49,15): warning C5051: attribute 'fallthrough' requires at least '/std:c++17'; ignored
+D:\Users\270194833\source\repos\Exceptions\Exceptions\Exceptions.cpp(53,15): warning C5051: attribute 'fallthrough' requires at least '/std:c++17'; ignored
+D:\Users\270194833\source\repos\Exceptions\Exceptions\Exceptions.cpp(57,15): warning C5051: attribute 'fallthrough' requires at least '/std:c++17'; ignored
+D:\Users\270194833\source\repos\Exceptions\Exceptions\Exceptions.cpp(69,16): warning C4101: 'number': unreferenced local variable
+  Exceptions.vcxproj -> D:\Users\270194833\source\repos\Exceptions\Debug\Exceptions.exe
